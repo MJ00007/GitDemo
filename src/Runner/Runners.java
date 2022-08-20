@@ -11,7 +11,7 @@ import io.cucumber.junit.CucumberOptions;
 		glue="stepdefination", stepNotifications = true, 
 		plugin = {"pretty", "html:target/cucumber.html",
 		"json:target/cucumber.json","junit:target/cucumber.xml"}
-		,monochrome = true)
+		,monochrome = false)
 public class Runners {
 	
 }
