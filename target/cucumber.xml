@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="3.895">
+    <testcase classname="Login to Bank app" name="User should be able to login to bank page" time="3.779">
+        <system-out><![CDATA[When User provides "mannojrathod789" and "Rathod"...........................passed
+Then User should be able to land on bank app................................passed
+And User should see welcome page............................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
