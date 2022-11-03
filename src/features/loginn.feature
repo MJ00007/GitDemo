@@ -15,4 +15,3 @@ And User should see welcome page
 Examples:
 |Username|Password|
 |mannojrathod789|Rathod|
-|mannojrathod786|Rathod|
